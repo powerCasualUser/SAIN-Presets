@@ -7,5 +7,5 @@
   "DateCreated": "11/27/2025 00:00:00",
   "BaseSAINDifficulty": "hard",
   "IsCustom": true,
-  "CanEditName": true
+  "CanEditName": false
 }
