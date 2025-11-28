@@ -460,8 +460,8 @@
       "Pose": {
         "Description": "Scales vision speed based on the pose of their enemy. Only applies to Non-AI targets.",
         "Enabled": true,
-        "PRONE_VISION_SPEED_COEF": 1.75,
-        "DUCK_VISION_SPEED_COEF": 1.25
+        "PRONE_VISION_SPEED_COEF": 2.0,
+        "DUCK_VISION_SPEED_COEF": 1.5
       },
       "ThirdParty": {
         "Description": "When an enemy is a certain angle away from their active enemies last known position, this will reduce their vision speed of that target up to the maximum set amount.",
