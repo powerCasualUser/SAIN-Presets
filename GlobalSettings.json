@@ -550,7 +550,7 @@
     "GlobalAggression": 1.0,
     "SneakyBots": true,
     "OnlySneakyPersonalitiesSneaky": true,
-    "MaximumDistanceToBeSneaky": 80.0,
+    "MaximumDistanceToBeSneaky": 50.0,
     "SUPP_TOGGLE": true,
     "SUPP_DISTANCE_SCALE_START": 4.0,
     "SUPP_DISTANCE_SCALE_END": 10.0,
