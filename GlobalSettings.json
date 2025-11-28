@@ -505,7 +505,7 @@
       "NightVisionOffRatio": 0.66
     },
     "NotLooking": {
-      "NotLookingToggle": true,
+      "NotLookingToggle": false,
       "NotLookingTimeLimit": 4.0,
       "NotLookingAngle": 45.0,
       "NotLookingVisionSpeedModifier": 1.1,
