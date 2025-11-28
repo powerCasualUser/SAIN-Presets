@@ -443,7 +443,7 @@
       "Movement": {
         "Description": "Scales vision speed based on the movement speed of their enemy. Faster movement = faster vision speed.",
         "Enabled": true,
-        "MOVEMENT_VISION_MULTIPLIER": 0.5
+        "MOVEMENT_VISION_MULTIPLIER": 0.8
       },
       "PartsVisibility": {
         "Description": "Scales vision speed based on the number of body parts that are within line of sight to their enemy. Only applies to Non-AI targets.",
