@@ -597,9 +597,9 @@
     },
     "SUPP_AMOUNT_MULTI": 1.0,
     "SUPP_STRENGTH_MULTI": 1.0,
-    "SUP_DECAY_AMOUNT": 0.25,
-    "SUP_DECAY_FREQ": 0.25,
-    "SUP_CHECK_FREQ": 0.5,
+    "SUP_DECAY_AMOUNT": 1.0,
+    "SUP_DECAY_FREQ": 1.0,
+    "SUP_CHECK_FREQ": 2.0,
     "SUPP_AMOUNTS": {
       "Caliber9x18PM": 1.0,
       "Caliber9x19PARA": 1.1,
