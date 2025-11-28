@@ -18,8 +18,8 @@
         "VisibleDistance": 150.0,
         "GainSightCoef": 0.2,
         "AccuratySpeed": 0.3,
-        "ScatteringPerMeter": 0.05,
-        "ScatteringClosePerMeter": 0.12,
+        "ScatteringPerMeter": 0.01,
+        "ScatteringClosePerMeter": 0.01,
         "HearingDistanceMulti": 1.0,
         "CanGrenade": true
       },
@@ -120,8 +120,8 @@
         "VisibleDistance": 225.0,
         "GainSightCoef": 0.2,
         "AccuratySpeed": 0.3,
-        "ScatteringPerMeter": 0.05,
-        "ScatteringClosePerMeter": 0.12,
+        "ScatteringPerMeter": 0.01,
+        "ScatteringClosePerMeter": 0.01,
         "HearingDistanceMulti": 1.0,
         "CanGrenade": true
       },
@@ -222,8 +222,8 @@
         "VisibleDistance": 250.0,
         "GainSightCoef": 0.2,
         "AccuratySpeed": 0.3,
-        "ScatteringPerMeter": 0.05,
-        "ScatteringClosePerMeter": 0.12,
+        "ScatteringPerMeter": 0.01,
+        "ScatteringClosePerMeter": 0.01,
         "HearingDistanceMulti": 1.0,
         "CanGrenade": true
       },
@@ -324,8 +324,8 @@
         "VisibleDistance": 275.0,
         "GainSightCoef": 0.2,
         "AccuratySpeed": 0.3,
-        "ScatteringPerMeter": 0.05,
-        "ScatteringClosePerMeter": 0.12,
+        "ScatteringPerMeter": 0.01,
+        "ScatteringClosePerMeter": 0.01,
         "HearingDistanceMulti": 1.0,
         "CanGrenade": true
       },
