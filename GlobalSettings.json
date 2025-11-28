@@ -695,7 +695,7 @@
         "SmoothingMode": "SmoothDamp"
       }
     },
-    "ConvergenceBoost": 1.1,
+    "ConvergenceBoost": 1.8,
     "PathVisionMinCommandsPerJob": 256.0
   },
   "Shoot": {
