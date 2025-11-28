@@ -706,7 +706,7 @@
     "ONLY_SEMIAUTO_TOGGLE": false,
     "BOT_RECOIL_COEF": 0.5,
     "BOT_RECOIL_ADD": 0.0,
-    "BOT_RECOIL_DECAY_COEF": 0.3,
+    "BOT_RECOIL_DECAY_COEF": 0.6,
     "BOT_RECOIL_BASELINE": 100.0,
     "BOT_RECOIL_BASELINE_REALISM": 125.0,
     "AmmoCaliberShootability": {
