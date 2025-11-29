@@ -28,9 +28,9 @@
       "LimitAIvsAIGlobal": true,
       "AILimitUpdateFrequency": 3.0,
       "AILimitRanges": {
-        "Far": 150.0,
-        "VeryFar": 250.0,
-        "Narnia": 400.0
+        "Far": 300.0,
+        "VeryFar": 500.0,
+        "Narnia": 700.0
       },
       "LimitAIvsAIVision": true,
       "MaxVisionRanges": {
