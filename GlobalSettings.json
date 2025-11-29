@@ -74,7 +74,7 @@
       "TurnLightOffNoEnemyGOONS": true,
       "TurnLightOffNoEnemyBOSS": false,
       "TurnLightOffNoEnemyFOLLOWER": false,
-      "TurnLightOffNoEnemyRAIDERROGUE": false,
+      "TurnLightOffNoEnemyRAIDERROGUE": true,
       "DebugFlash": false,
       "SillyMode": false
     },
