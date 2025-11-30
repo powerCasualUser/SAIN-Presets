@@ -66,7 +66,7 @@
       "SAIN_EXTRACT_TOGGLE": false
     },
     "Flashlight": {
-      "DazzleEffectiveness": 3.0,
+      "DazzleEffectiveness": 1.0,
       "MaxDazzleRange": 40.0,
       "AllowLightOnForDarkBuildings": true,
       "TurnLightOffNoEnemyPMC": true,
