@@ -26,7 +26,7 @@
     },
     "AILimit": {
       "LimitAIvsAIGlobal": true,
-      "AILimitUpdateFrequency": 3.0,
+      "AILimitUpdateFrequency": 5.0,
       "AILimitRanges": {
         "Far": 300.0,
         "VeryFar": 500.0,
