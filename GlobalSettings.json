@@ -817,10 +817,10 @@
   },
   "Talk": {
     "TalkativeScavs": true,
-    "TalkativePMCs": false,
+    "TalkativePMCs": true,
     "TalkativeRaidersRogues": true,
     "TalkativeBosses": true,
-    "TalkativeGoons": false,
+    "TalkativeGoons": true,
     "FriendlyReponseChance": 85.0,
     "FriendlyReponseChanceAI": 80.0,
     "FriendlyReponseDistance": 65.0,
