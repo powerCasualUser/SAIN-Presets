@@ -83,7 +83,7 @@
       "WillSearchFromAudio": false,
       "HeardFromPeaceBehavior": "Freeze",
       "WillChaseDistantGunshots": false,
-      "AudioStraightDistanceToIgnore": 100.0,
+      "AudioStraightDistanceToIgnore": 85.0,
       "SearchBaseTime": 90.0,
       "SearchWaitMultiplier": 0.5,
       "SprintWhileSearchChance": 20.0,
