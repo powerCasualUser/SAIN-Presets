@@ -11,7 +11,7 @@
   "General": {
     "BotsUseGrenades": true,
     "BotVsBotGrenade": true,
-    "BOT_INTERTIA_TOGGLE": true,
+    "BOT_INERTIA_TOGGLE": true,
     "VanillaBots": {
       "VanillaScavs": false,
       "VanillaBosses": false,
@@ -80,7 +80,8 @@
     },
     "Jokes": {
       "RandomCheaters": false,
-      "RandomCheaterChance": 1.0
+      "RandomCheaterChance": 1.0,
+      "EnableKhorovodPMCs": true
     },
     "Debug": {
       "Logs": {
@@ -159,6 +160,7 @@
     "IronSightScaleDistanceStart": 75.0,
     "IronSightScaleDistanceEnd": 125.0,
     "CenterMassVal": 0.283,
+    "MinAimTime": 0.0,
     "FasterCQBReactionsGlobal": true,
     "AimDownSightsAimTimeMultiplier": 0.7
   },
@@ -307,14 +309,16 @@
       "Caliber20g": 185.0,
       "Caliber12g": 185.0,
       "Caliber23x75": 210.0,
+      "Caliber20x1mm": 50.0,
       "Caliber26x75": 50.0,
       "Caliber30x29": 50.0,
       "Caliber40x46": 50.0,
       "Caliber40mmRU": 50.0,
+      "Caliber127x99": 275.0,
       "Caliber127x108": 300.0,
+      "Caliber725": 400.0,
       "Caliber68x51": 200.0,
       "Default": 125.0,
-      "Caliber20x1": 125.0,
       "Caliber127x33": 125.0,
       "Caliber9x18PMM": 125.0
     }
@@ -510,13 +514,6 @@
       "NotLookingAngle": 45.0,
       "NotLookingVisionSpeedModifier": 1.1,
       "NotLookingAccuracyAmount": 0.33
-    },
-    "NoBushESP": {
-      "NoBushESPToggle": true,
-      "NoBushESPEnhanced": false,
-      "NoBushESPFrequency": 0.1,
-      "NoBushESPEnhancedRatio": 0.75,
-      "NoBushESPDebugMode": false
     }
   },
   "Mind": {
@@ -545,7 +542,8 @@
       "bossPartisan": "Rat",
       "bossBully": "Coward",
       "bossSanitar": "Coward",
-      "bossBoar": "Coward"
+      "bossBoar": "Coward",
+      "gifter": "GigaChad"
     },
     "GlobalAggression": 1.0,
     "SneakyBots": true,
@@ -601,6 +599,7 @@
     "SUP_DECAY_FREQ": 1.0,
     "SUP_CHECK_FREQ": 2.0,
     "SUPP_AMOUNTS": {
+      "Caliber20x1mm": 0.25,
       "Caliber9x18PM": 1.0,
       "Caliber9x19PARA": 1.1,
       "Caliber46x30": 1.2,
@@ -627,7 +626,9 @@
       "Caliber40x46": 3.0,
       "Caliber40mmRU": 3.0,
       "Caliber86x70": 5.0,
+      "Caliber127x99": 5.0,
       "Caliber127x108": 5.0,
+      "Caliber725": 10.0,
       "Default": 2.0
     },
     "SUPP_MAX_NUM": 30.0
@@ -710,6 +711,7 @@
     "BOT_RECOIL_BASELINE": 100.0,
     "BOT_RECOIL_BASELINE_REALISM": 125.0,
     "AmmoCaliberShootability": {
+      "Caliber20x1mm": 0.225,
       "Caliber9x18PM": 0.225,
       "Caliber9x19PARA": 0.275,
       "Caliber46x30": 0.325,
@@ -735,11 +737,14 @@
       "Caliber30x29": 1.0,
       "Caliber40x46": 1.0,
       "Caliber40mmRU": 1.0,
+      "Caliber127x99": 0.5,
       "Caliber127x108": 0.5,
+      "Caliber725": 1.0,
       "Caliber68x51": 0.6,
       "Default": 0.5
     },
     "AmmoCaliberFullAutoMaxDistances": {
+      "Caliber20x1mm": 80.0,
       "Caliber9x18PM": 60.0,
       "Caliber9x19PARA": 60.0,
       "Caliber46x30": 60.0,
@@ -765,7 +770,9 @@
       "Caliber30x29": 200.0,
       "Caliber40x46": 10.0,
       "Caliber40mmRU": 10.0,
+      "Caliber127x99": 10.0,
       "Caliber127x108": 200.0,
+      "Caliber725": 10.0,
       "Caliber68x51": 25.0,
       "Default": 50.0
     },
