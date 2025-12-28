@@ -89,7 +89,7 @@
       "SearchWaitMultiplier": 1.0,
       "SprintWhileSearchChance": 0.0,
       "Sneaky": true,
-      "SneakySpeed": 0.0,
+      "SneakySpeed": 0.1,
       "SneakyPose": 0.0,
       "SlowAtCorners": true
     },

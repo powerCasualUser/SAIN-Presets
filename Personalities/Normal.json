@@ -90,8 +90,8 @@
       "SearchBaseTime": 60.0,
       "SearchWaitMultiplier": 1.0,
       "SprintWhileSearchChance": 10.0,
-      "Sneaky": false,
-      "SneakySpeed": 1.0,
+      "Sneaky": true,
+      "SneakySpeed": 0.25,
       "SneakyPose": 1.0,
       "SlowAtCorners": true
     },
