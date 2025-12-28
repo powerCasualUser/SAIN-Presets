@@ -64,7 +64,7 @@
       "DOGFIGHT_PATH_DIST_END": 15.0,
       "DOGFIGHT_TIMESINCESEEN_END": 8.0,
       "HoldGroundBaseTime": 1.0,
-      "HoldGroundMinRandom": 0.75,
+      "HoldGroundMinRandom": 1.0,
       "HoldGroundMaxRandom": 1.5,
       "SuppressionResistance": 0.0,
       "TARGET_SUPPRESS_TOGGLE": false,
@@ -89,7 +89,7 @@
       "SearchWaitMultiplier": 1.0,
       "SprintWhileSearchChance": 0.0,
       "Sneaky": true,
-      "SneakySpeed": 0.0,
+      "SneakySpeed": 0.1,
       "SneakyPose": 0.0,
       "SlowAtCorners": true
     },
