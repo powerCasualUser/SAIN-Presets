@@ -160,7 +160,7 @@
     "IronSightScaleDistanceStart": 75.0,
     "IronSightScaleDistanceEnd": 125.0,
     "CenterMassVal": 0.283,
-    "MinAimTime": 0.0,
+    "MinAimTime": 0.3,
     "FasterCQBReactionsGlobal": true,
     "AimDownSightsAimTimeMultiplier": 0.7
   },
