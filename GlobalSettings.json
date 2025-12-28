@@ -595,7 +595,7 @@
     },
     "SUPP_AMOUNT_MULTI": 1.0,
     "SUPP_STRENGTH_MULTI": 1.0,
-    "SUP_DECAY_AMOUNT": 1.0,
+    "SUP_DECAY_AMOUNT": 0.5,
     "SUP_DECAY_FREQ": 1.0,
     "SUP_CHECK_FREQ": 2.0,
     "SUPP_AMOUNTS": {
