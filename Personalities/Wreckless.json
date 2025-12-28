@@ -53,7 +53,8 @@
       "bossKolontay",
       "followerKolontayAssault",
       "followerKolontaySecurity",
-      "bossPartisan"
+      "bossPartisan",
+      "gifter"
     ]
   },
   "Behavior": {
