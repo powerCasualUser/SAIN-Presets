@@ -22,6 +22,14 @@ On the right side, under Releases, click Tags. Then download any version `0.2.0`
 
 The path should look like this: `<SPT>\BepInEx\plugins\SAIN\Presets\<Preset Folder>`. For example, `SPT 4.0\BepInEx\plugins\SAIN\Presets\anOrangeDoggo - Hard`.
 
+For now, there are 2 presets I'm working on:
+
+- Default has relatively shallow modifications and should overall behave similarly to SAIN's default, but with tightened shot groupings so bots can stand a bit of chance of fighting. This preset also serves as my base preset for any other variations.
+- Hard is derived from Default and is planned to have a bit deeper modifications. But for now, I don't have an idea on how it should be just yet, other than significantly tighter shot groupings than Default. This is the preset I regularly play on.
+
+You can have all the presets existing together at any time since they're contained within their respective folder.
+
+The versioning numbers are respective to their variations of the presets and shoul not be cross compared. For example, `hard-0.2.5` should not be considered "newer" or "better" than `default-0.2.2` as it is being worked and iterated on in a different pipeline, even though it might be based on that particular version of Default.
 ## How Are My Presets Tested
 
 I'm an average Tarkov player. I play with Recoil Rework and mostly shoot in semi. All Acid's mods are mostly default except for spawns which are set to _spawn everything at Normal difficulty_. For how Difficulty and SAIN preset work, see [this](https://cdn.discordapp.com/attachments/1121357894068224031/1270106508230787122/SAIN_Scale.png?ex=6952329d&is=6950e11d&hm=3ce1a300310afaa13beb710d60fd943c0022a31858e2dd10be719b6b6ed5297c&)
@@ -115,4 +123,4 @@ All mods are loaded via Mod Organizer 2 just like my 3.11 setup. Here is my mod 
 
 To my knowledge, presets for latest SAIN can be ported back to SPT 3.11. While some of the settings are added to the newer version, most of the identical parameters should work exactly the same.
 
-If you wish to port any preset for newer verion of SAIN back, make sure you only take the values of the settings which exist in both versions and leave the rest out. I don't recommend outright overwriting the files. Manually review through each and make a change by hand so you know what you touch.
+If you wish to port any preset made for newer verion of SAIN back, make sure you only take the values of the settings which exist in both versions and leave the rest out. I don't recommend outright overwriting the files. Manually review through each and make the change by hand so you know what you touch.
