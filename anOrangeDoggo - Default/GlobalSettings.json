@@ -687,12 +687,12 @@
       },
       "CombatVisibleEnemy": {
         "SmoothingValue": 0.09,
-        "MaxTurnSpeed": 360.0,
+        "MaxTurnSpeed": 300.0,
         "SmoothingMode": "SmoothDamp"
       },
       "Aiming": {
         "SmoothingValue": 0.1,
-        "MaxTurnSpeed": 360.0,
+        "MaxTurnSpeed": 300.0,
         "SmoothingMode": "SmoothDamp"
       }
     },
